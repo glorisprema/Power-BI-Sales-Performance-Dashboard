@@ -1,6 +1,6 @@
 # Sales Performance Dashboard | Power BI PL-300
 
-![Dashboard](Sales Dashboard.png)
+![Sales Dashboard](Sales%20Dashboard.png)
 
 ## Project Overview
 Executive Sales Performance Dashboard built in Power BI Desktop analyzing 700 orders.
