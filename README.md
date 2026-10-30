@@ -28,7 +28,6 @@ Total Orders = COUNTROWS(Sales)
 ## Files in this Repo
 - dashboard.png - Final Screenshot
 - Sales_Dashboard_700Orders.pbix - Power BI File
-- dataset.xlsx - Raw Data
-
+  
 ## Author
 glorisprema | Aspiring Data Analyst | PL-300
